@@ -1,0 +1,23 @@
+{
+  "name": "with_my_consul",
+  "version": "1.0.0",
+  "description": "あなたの長期的な目標をサポートします",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryotaro23/with_my_consul.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryotaro23/with_my_consul/issues"
+  },
+  "homepage": "https://github.com/ryotaro23/with_my_consul#readme",
+  "volta": {
+    "node": "18.12.1",
+    "npm": "8.19.2"
+  }
+}
